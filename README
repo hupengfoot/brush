@@ -1,1 +1,5 @@
 腾讯先游刷经验工具
+使用方法：
+1.获取登陆cookie中的key
+2.nohup node brush.js xxxx
+
